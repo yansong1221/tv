@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "http://tt.58cxz.com/001.json",
+            "name": "爱TV吧"
+        },
+        {
             "url": "http://yydsys.top/duo/v.json",
             "name": "🔔切换线路后务必刷新接口"
         },
