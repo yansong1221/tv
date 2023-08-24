@@ -59,6 +59,10 @@
         {
             "url": "https://gitee.com/yansong_1221/tv/raw/master/hhhh.json",
             "name": "特殊节目"
+        },
+        {
+            "name":"看看",
+            "url":"https://agit.ai/guot54/ygbh/raw/branch/master/prox.json"
         }
     ]
 }
