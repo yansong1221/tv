@@ -11,6 +11,10 @@
         {
             "name": "月光宝盒",
             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json"
+        },
+        {
+            "name": "小苹果",
+            "url": "https://agit.ai/guot54/ygbh/src/branch/master/xpg.json"           
         }
     ]
 }
