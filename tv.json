@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "紫铜",
-            "sourceUrl": "https://gitee.com/yansong_1221/tv/raw/master/tv_list.json"
+            "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/yansong1221/tv/master/tv_list.json"
         }
     ]
 }
