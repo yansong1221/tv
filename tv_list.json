@@ -15,6 +15,10 @@
         {
             "name": "运输车",
             "url": "https://weixine.net/ysc.json"
+        },
+        {
+            "name":"影音天堂",
+            "url":"https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"
         }
     ]
 }
