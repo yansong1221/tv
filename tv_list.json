@@ -1,10 +1,6 @@
 {
     "urls": [
         {
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/h/prox.json",
-            "name": "月光宝盒🔞"
-        },
-        {
             "name": "月光宝盒",
             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json"
         },
@@ -19,6 +15,10 @@
         {
             "name":"影音天堂",
             "url":"https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"
+        },
+        {
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/h/prox.json",
+            "name": "月光宝盒🔞"
         }
     ]
 }
