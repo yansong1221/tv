@@ -1,8 +1,8 @@
-{
+ {
     "storeHouse": [
         {
             "sourceName": "SONG",
-            "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/yansong1221/tv/master/tv_list.json"
+            "sourceUrl": "https://raw.githubusercontent.com/yansong1221/tv/master/tv_list.json"
         }
     ]
 }
