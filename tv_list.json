@@ -23,6 +23,10 @@
         {
             "url": "https://cn.kstore.space/download/3010/ppa.json",
             "name":"阿里精品"
+        }，
+        {
+            "url": "http://qrh.yimkj.cn/al/阿里.json",
+            "name":"阿里专线"
         }
     ]
 }
