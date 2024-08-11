@@ -1,28 +1,32 @@
-    {
+{
     "urls": [
         {
             "name": "月光宝盒",
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/prox.json"
+            "url": "https://raw.kkgithub.com/guot55/YGBH/main/box原.json"
         },
         {
-            "name": "乐享汇",
-            "url": "https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt"
+            "url": "https://raw.kkgithub.com/guot55/YGBH/main/pro.json",
+            "name": "月光宝盒🔞"
         },
         {
             "name": "运输车",
             "url": "https://weixine.net/ysc.json"
         },
         {
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/h/prox.json",
-            "name": "月光宝盒🔞"
+            "url": "http://我不是.肥猫.live/接口禁止贩卖",
+            "name": "肥猫"
         },
         {
-            "url": "https://codeberg.org/looktv/my/raw/branch/main/ck.json",
-            "name":"畅影随行"
+            "url": "http://饭太硬.com/tv",
+            "name": "饭太硬"
         },
         {
-            "url": "http://qrh.yimkj.cn/al/阿里.json",
-            "name":"阿里专线"
+            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0821.json",
+            "name": "饭太硬++"
+        },
+        {
+            "url": "http://drpy.site/js1",
+            "name": "小雅"
         }
     ]
 }
