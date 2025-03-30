@@ -2,10 +2,10 @@
     "urls": [
         {
             "name": "月光宝盒",
-            "url": "https://raw.kkgithub.com/guot55/YGBH/main/box原.json"
+            "url": "http://ygbh.site/box.php"
         },
         {
-            "url": "https://raw.kkgithub.com/guot55/YGBH/main/pro.json",
+            "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/pro.json",
             "name": "月光宝盒🔞"
         },
         {
@@ -17,7 +17,7 @@
             "name": "肥猫"
         },
         {
-            "url": "http://饭太硬.com/tv",
+            "url": "http://www.饭太硬.com/tv",
             "name": "饭太硬"
         },
         {
